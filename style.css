@@ -8,7 +8,7 @@
    place-content: center;
    place-items: center ;
    grid-gap: 15px;
-   
+   font-size: larger;
 }
 .btn-group{
     display: flex;
